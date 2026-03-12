@@ -16,7 +16,7 @@ const Hero = ({ togglePlay }) => {
                   ORDER FOOD YOU LIKE WITH TAYYOR
                 </span>
               </h1>
-              <p data-aos="fade-up" data-aos-delay="300">
+              <p data-aos="fade-up" data-aos-delay="300" className="text-lg">
                 Experience the joy of ordering your favorite meals with Tayyors,
                 the ultimate food ordering app. Explore a world of delicious
                 options, from local eateries to international cuisines, all at
